@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "cdcc095bfe78e41c2e8646dab73c3ee909bd3216"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "karmaMaintainer/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.1-beta1"
+        },
+        "runtime": {
+          "karmaMaintainer.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.1-beta1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "karmaMaintainer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.1-beta1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QqUkFYQAEWUxjJ9mMSWhDPSLHRgcaLfverR03u9H8qbc/WxPFrQ1RsmlyGazMDyg5NqKXxwd5D3VsnBG7xwM1A==",
+      "path": "newtonsoft.json/11.0.1-beta1",
+      "hashPath": "newtonsoft.json.11.0.1-beta1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/home/justin/projects/karmaMaintainer/bin/Debug/netcoreapp2.0/karmaMaintainer.deps.json
+/home/justin/projects/karmaMaintainer/bin/Debug/netcoreapp2.0/karmaMaintainer.runtimeconfig.json
+/home/justin/projects/karmaMaintainer/bin/Debug/netcoreapp2.0/karmaMaintainer.runtimeconfig.dev.json
+/home/justin/projects/karmaMaintainer/bin/Debug/netcoreapp2.0/karmaMaintainer.dll
+/home/justin/projects/karmaMaintainer/bin/Debug/netcoreapp2.0/karmaMaintainer.pdb
+/home/justin/projects/karmaMaintainer/obj/Debug/netcoreapp2.0/karmaMaintainer.csproj.CoreCompileInputs.cache
+/home/justin/projects/karmaMaintainer/obj/Debug/netcoreapp2.0/karmaMaintainer.AssemblyInfoInputs.cache
+/home/justin/projects/karmaMaintainer/obj/Debug/netcoreapp2.0/karmaMaintainer.AssemblyInfo.cs
+/home/justin/projects/karmaMaintainer/obj/Debug/netcoreapp2.0/karmaMaintainer.dll
+/home/justin/projects/karmaMaintainer/obj/Debug/netcoreapp2.0/karmaMaintainer.pdb

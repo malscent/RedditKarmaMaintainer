@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.2/system/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_karmaMaintainer.-1239867907.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="IAuthenticationService.cs" t="Include" />
+      <e p="IRedditClient.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="karmaMaintainer.csproj" t="IncludeRecursive" />
+      <e p="karmaMaintainer.sln" t="IncludeFlat" />
+      <e p="models" t="Include">
+        <e p="AccessRequestResponse.cs" t="Include" />
+        <e p="Comment.cs" t="Include" />
+        <e p="CommentResponse.cs" t="Include" />
+        <e p="MeResponse.cs" t="Include" />
+        <e p="TokenInfo.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.0" t="Include">
+            <e p="karmaMaintainer.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="services" t="Include">
+        <e p="OauthAuthenticationService.cs" t="Include" />
+        <e p="RedditClient.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

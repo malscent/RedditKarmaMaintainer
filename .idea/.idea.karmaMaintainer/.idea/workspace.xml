@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef92df9b-bb25-4d9d-9fce-89092afae411" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CommentResponse.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/CommentResponse.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+              <folding>
+                <marker date="1515517640967" expanded="true" signature="82:271" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+              <folding>
+                <marker date="1514404508315" expanded="false" signature="6:75" ph="..." />
+                <marker date="1514404508315" expanded="true" signature="122:2154" ph="{...}" />
+                <marker date="1514404508315" expanded="true" signature="624:2148" ph="{...}" />
+                <marker date="1514404508315" expanded="true" signature="1467:2125" ph="{...}" />
+                <marker date="1514404508315" expanded="true" signature="1627:1879" ph="{...}" />
+                <marker date="1514404508315" expanded="true" signature="1686:1861" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comment.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/Comment.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <marker date="1515517641507" expanded="true" signature="74:374" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedditClient.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/services/RedditClient.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+              <folding>
+                <marker date="1515517918199" expanded="false" signature="6:297" ph="..." />
+                <marker date="1515517918199" expanded="true" signature="333:4357" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="381:4355" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="542:1097" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="1141:1654" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="1345:1496" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="1513:1644" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="1760:3137" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="1896:1957" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="1986:2043" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="2071:2127" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="2236:2308" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="2354:2424" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="2786:2868" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="2963:3067" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="3212:4143" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="3408:3896" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="3485:3880" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="3952:4106" ph="{...}" />
+                <marker date="1515517918199" expanded="true" signature="4207:4349" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OauthAuthenticationService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/OauthAuthenticationService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-428">
+              <caret line="16" column="88" lean-forward="false" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
+              <folding>
+                <marker date="1514352506569" expanded="false" signature="6:169" ph="..." />
+                <marker date="1514352506569" expanded="true" signature="205:3004" ph="{...}" />
+                <marker date="1514352506569" expanded="true" signature="276:3002" ph="{...}" />
+                <marker date="1514352506569" expanded="true" signature="678:711" ph="{...}" />
+                <marker date="1514352506569" expanded="true" signature="784:1118" ph="{...}" />
+                <marker date="1514352506569" expanded="true" signature="828:1079" ph="{...}" />
+                <marker date="1514352506569" expanded="true" signature="934:1047" ph="{...}" />
+                <marker date="1514352506569" expanded="true" signature="1231:1841" ph="{...}" />
+                <marker date="1514352506569" expanded="true" signature="1257:1685" ph="{...}" />
+                <marker date="1514352506569" expanded="true" signature="1403:1640" ph="{...}" />
+                <marker date="1514352506569" expanded="true" signature="1717:1831" ph="{...}" />
+                <marker date="1514352506569" expanded="true" signature="1964:2996" ph="{...}" />
+                <marker date="1514352506569" expanded="true" signature="2629:2817" ph="{...}" />
+                <marker date="1514352506569" expanded="true" signature="2834:2973" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IRedditClient.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IRedditClient.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <marker date="1515517641555" expanded="false" signature="6:59" ph="..." />
+                <marker date="1515517641555" expanded="true" signature="123:259" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/models/TokenInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IRedditClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/services/RedditClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/MeResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/CommentResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/Comment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IAuthenticationService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/AccessRequestResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/services/OauthAuthenticationService.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/models/AccessRequestResponse.cs" />
+        <option value="$PROJECT_DIR$/IAuthenticationService.cs" />
+        <option value="$PROJECT_DIR$/models/TokenInfo.cs" />
+        <option value="$PROJECT_DIR$/models/MeResponse.cs" />
+        <option value="$PROJECT_DIR$/services/OauthAuthenticationService.cs" />
+        <option value="$PROJECT_DIR$/models/Comment.cs" />
+        <option value="$PROJECT_DIR$/models/CommentResponse.cs" />
+        <option value="$PROJECT_DIR$/IRedditClient.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/services/RedditClient.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="1006" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="karmaMaintainer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="karmaMaintainer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="karmaMaintainer" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="karmaMaintainer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="karmaMaintainer" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="karmaMaintainer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="karmaMaintainer" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="services" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.KarmaMaintainer">
+    <configuration name="KarmaMaintainer" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/karmaMaintainer.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="REDDIT_APP_ID" value="dyAnDgITn0phcg" />
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+        <env name="REDDIT_USER" value="malstank" />
+        <env name="REDDIT_APP_SECRET" value="gLWMoWlOmAFbFHUlPdbJ8llRkYc" />
+        <env name="REDDIT_PASSWORD" value="tr33mendous" />
+      </envs>
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/karmaMaintainer.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef92df9b-bb25-4d9d-9fce-89092afae411" name="Default" comment="" />
+      <created>1514299577454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514299577454</updated>
+      <workItem from="1514299578686" duration="27925000" />
+      <workItem from="1515517636099" duration="1484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29409000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1006" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853982" sideWeight="0.50213444" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.49786553" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2588047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/models/CommentResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <marker date="1515517640967" expanded="true" signature="82:271" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding>
+            <marker date="1514404508315" expanded="false" signature="6:75" ph="..." />
+            <marker date="1514404508315" expanded="true" signature="122:2154" ph="{...}" />
+            <marker date="1514404508315" expanded="true" signature="624:2148" ph="{...}" />
+            <marker date="1514404508315" expanded="true" signature="1467:2125" ph="{...}" />
+            <marker date="1514404508315" expanded="true" signature="1627:1879" ph="{...}" />
+            <marker date="1514404508315" expanded="true" signature="1686:1861" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Comment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1515517641507" expanded="true" signature="74:374" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IRedditClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1515517641555" expanded="false" signature="6:59" ph="..." />
+            <marker date="1515517641555" expanded="true" signature="123:259" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/RedditClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="86" column="30" lean-forward="true" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
+          <folding>
+            <marker date="1515517918199" expanded="false" signature="6:297" ph="..." />
+            <marker date="1515517918199" expanded="true" signature="333:4357" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="381:4355" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="542:1097" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="1141:1654" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="1345:1496" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="1513:1644" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="1760:3137" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="1896:1957" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="1986:2043" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="2071:2127" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="2236:2308" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="2354:2424" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="2786:2868" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="2963:3067" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="3212:4143" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="3408:3896" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="3485:3880" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="3952:4106" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="4207:4349" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/TokenInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IAuthenticationService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/AccessRequestResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/MeResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/CommentResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <marker date="1515517640967" expanded="true" signature="82:271" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Comment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1515517641507" expanded="true" signature="74:374" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IRedditClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1515517641555" expanded="false" signature="6:59" ph="..." />
+            <marker date="1515517641555" expanded="true" signature="123:259" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding>
+            <marker date="1514404508315" expanded="false" signature="6:75" ph="..." />
+            <marker date="1514404508315" expanded="true" signature="122:2154" ph="{...}" />
+            <marker date="1514404508315" expanded="true" signature="624:2148" ph="{...}" />
+            <marker date="1514404508315" expanded="true" signature="1467:2125" ph="{...}" />
+            <marker date="1514404508315" expanded="true" signature="1627:1879" ph="{...}" />
+            <marker date="1514404508315" expanded="true" signature="1686:1861" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/OauthAuthenticationService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-428">
+          <caret line="16" column="88" lean-forward="false" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
+          <folding>
+            <marker date="1514352506569" expanded="false" signature="6:169" ph="..." />
+            <marker date="1514352506569" expanded="true" signature="205:3004" ph="{...}" />
+            <marker date="1514352506569" expanded="true" signature="276:3002" ph="{...}" />
+            <marker date="1514352506569" expanded="true" signature="678:711" ph="{...}" />
+            <marker date="1514352506569" expanded="true" signature="784:1118" ph="{...}" />
+            <marker date="1514352506569" expanded="true" signature="828:1079" ph="{...}" />
+            <marker date="1514352506569" expanded="true" signature="934:1047" ph="{...}" />
+            <marker date="1514352506569" expanded="true" signature="1231:1841" ph="{...}" />
+            <marker date="1514352506569" expanded="true" signature="1257:1685" ph="{...}" />
+            <marker date="1514352506569" expanded="true" signature="1403:1640" ph="{...}" />
+            <marker date="1514352506569" expanded="true" signature="1717:1831" ph="{...}" />
+            <marker date="1514352506569" expanded="true" signature="1964:2996" ph="{...}" />
+            <marker date="1514352506569" expanded="true" signature="2629:2817" ph="{...}" />
+            <marker date="1514352506569" expanded="true" signature="2834:2973" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/RedditClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding>
+            <marker date="1515517918199" expanded="false" signature="6:297" ph="..." />
+            <marker date="1515517918199" expanded="true" signature="333:4357" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="381:4355" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="542:1097" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="1141:1654" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="1345:1496" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="1513:1644" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="1760:3137" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="1896:1957" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="1986:2043" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="2071:2127" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="2236:2308" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="2354:2424" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="2786:2868" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="2963:3067" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="3212:4143" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="3408:3896" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="3485:3880" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="3952:4106" ph="{...}" />
+            <marker date="1515517918199" expanded="true" signature="4207:4349" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
